@@ -1,0 +1,1 @@
+export const API_URL=`https://hd-note-app-backend-g7y1.onrender.com/api`;
